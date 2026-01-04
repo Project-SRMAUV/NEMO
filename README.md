@@ -1,6 +1,6 @@
 # NEMO
 
-Autonomous Underwater Vehicle (AUV) project by Team SRM AUV.
+Autonomous Underwater Vehicle (AUV) project by Team SRM_AUV.
 
 ## Branches
 main → stable version
